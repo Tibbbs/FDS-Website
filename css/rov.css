@@ -12,3 +12,33 @@ h1, h2, h3
 {
 	margin-top: .5em;
 }
+
+.bottom-bar
+{
+	background-color: #333333;
+	text-align: left;
+	overflow: auto;
+}
+
+.bottom-bar h4
+{
+	display: inline;
+	float: right;
+	line-height: 1.5em;
+}
+
+.bottom-bar img
+{
+	float: left;
+}
+
+.therefore
+{
+	-webkit-filter: invert(100%);
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	height: 2em;
+	display: inline;
+}
