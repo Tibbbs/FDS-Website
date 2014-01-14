@@ -28,7 +28,7 @@
 		<nav class="top-bar" data-topbar>
 			<ul class="title-area">
 				<li class="name">
-					<h1><a href="#">First Flight ROV</a></h1>
+					<h1><a href="index.php">First Flight ROV</a></h1>
 				</li>
 				<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
 			</ul>
@@ -40,41 +40,25 @@
 					<li class="has-dropdown">
 						<a href="#">Sponsors</a>
 						<ul class="dropdown">
-							<li><a href="#">2013 Sponsors</a></li>
-							<li><a href="#">2012 Sponsors</a></li>
-							<li><a href="#">2011 Sponsors</a></li>
+							<li><a href="/rov/sponsors/2k13.php">2013 Sponsors</a></li>
+							<li><a href="/rov/sponsors/2k11.php">2011 Sponsors</a></li>
+							<li><a href="/rov/sponsors/2k10.php">2010 Sponsors</a></li>
 						</ul>
 					</li>
-					<li><a href="#">The Competition</a></li>
+					<li><a href="mate.php">The Competition</a></li>
 					<li><a href="#">Donate</a></li>
 				</ul>
 			</section>
 		</nav>
+		<div class="buffer"></div>
+		<div class="masthead">
+			<h1 class="main-header">First Flight ROV</h1>
+			<h2 class="main-header-sub hide-for-small">Designing, building, and competing Remotely Operated Vehicles since 2007</h2>
+		</div>
+		<div class="buffer"></div>
+		<br />
 		<div class="row">
 			<div class="large-12 medium-12 small-12 columns">
-				<h1 class="main-header">First Flight ROV</h1>
-				<hr />
-				<h3 class="subheader">Designing, building, and competing Remotely Operated Vehicles since 2007.</h3>
-				<ul data-orbit>
-					<li>
-						<img src="img/glamor-shot.jpg" alt="slide1"/>
-						<div class="orbit-caption">
-							The ROV in its natural habitat
-						</div>
-					</li>
-					<li>
-						<img src="img/datass.jpg" alt="slide1"/>
-						<div class="orbit-caption">
-							DATASS performing mission functions
-						</div>
-					</li>
-					<li>
-						<img src="img/moist.jpg" alt="slide1"/>
-						<div class="orbit-caption">
-							The ROV undergoing maintenance
-						</div>
-					</li>
-				</ul>
 				<hr />
 				<h2>What's An ROV?</h2>
 				<hr />
@@ -128,3 +112,4 @@
 			});
 		</script>
 	</body>
+</html>
