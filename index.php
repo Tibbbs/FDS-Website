@@ -52,8 +52,10 @@
 		</nav>
 		<div class="buffer"></div>
 		<div class="masthead">
-			<h1 class="main-header">First Flight ROV</h1>
-			<h2 class="main-header-sub hide-for-small">Designing, building, and competing Remotely Operated Vehicles since 2007</h2>
+			<div class="head-wrap">
+				<h1 class="main-header">First Flight ROV</h1>
+				<h2 class="main-header-sub hide-for-small">Designing, building, and competing Remotely Operated Vehicles since 2007</h2>
+			</div>
 		</div>
 		<div class="buffer"></div>
 		<br />
@@ -93,7 +95,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="bottom-bar">
+		<div class="footer">
 			<img class="therefore" src="img/therefore.svg" alt="therefore" />
 			<h4><small>&copy;2014 Matthew Thibodeau</small></h4>
 		</div>

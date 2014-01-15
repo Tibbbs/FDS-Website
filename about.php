@@ -84,16 +84,26 @@
 					<li>Mission-specific payload tools</li>
 					<li>Woven monofilament propeller shrouds</li>
 				</ul>
-				<h4>To read more about our ROV, click <a href="therov.php">here</a>.</h4>
+				<a href="therov.php" class="button">To read more about our ROV, click here</a>
 				<hr />
 				<h2>The Team</h2>
 				<hr />
 				<img src="img/otherteam.jpg" alt="the team" />
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus velit lacus, interdum scelerisque nunc hendrerit vitae. Mauris vestibulum quis augue ut accumsan. Nulla nulla ipsum, gravida in ligula nec, bibendum ultricies libero. Etiam neque mi, faucibus in sapien eget, sagittis ultricies sem. Sed blandit et felis ac mollis. Donec eu tempor justo. Suspendisse adipiscing tellus ultricies felis vehicula malesuada eget ut justo. Curabitur sed risus rhoncus velit laoreet mattis. Donec porta interdum erat, sed volutpat lectus consequat sit amet. Cras luctus pretium enim. Ut ac venenatis erat. Ut bibendum pretium magna, vel scelerisque ante. Nunc commodo justo lorem, quis dictum felis viverra a. Praesent tincidunt purus ac lacus elementum pulvinar.</p>
+				<p>Our 2014 members are:</p>
+				<ul>
+					<li>Matthew Thibodeau, Class of 2015</li>
+					<li>Matthew Gray, Class of 2015</li>
+					<li>Dakota Tholen, Class of 2015</li>
+					<li>Sam Weybright, Class of 2016</li>
+					<li>Ricky Carroll, Class of 2016</li>
+					<li>Luke Potter, Class of 2017</li>
+					<li>Kenzie Potter, Class of 2017</li>
+				</ul>
+				<p>I think I'll separate this into columns with a blurb for each returning member.</p>
 			</div>
 		</div>
 
-		<div class="bottom-bar">
+		<div class="footer">
 			<img class="therefore" src="img/therefore.svg" alt="therefore" />
 			<h4><small>&copy;2014 Matthew Thibodeau</small></h4>
 		</div>

@@ -151,7 +151,7 @@
 			<div class="row">
 				<div class="small-12">
 					<h2>Carolina Designs Realty</h2>
-					<h2>SubCoonn</h2>
+					<h2>SubConn</h2>
 					<h2>MATE Center</h2>
 					<h2>VBL Technologies</h2>
 					<h2>Carl Worseley &amp; Associates</h2>
@@ -204,7 +204,7 @@
 			</div>
 		</div>
 
-		<div class="bottom-bar">
+		<div class="footer">
 			<img class="therefore" src="../img/therefore.svg" alt="therefore" />
 			<h4><small>&copy;2014 Matthew Thibodeau</small></h4>
 		</div>
