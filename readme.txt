@@ -1,1 +1,1 @@
-This is a website, designed using the zurb's Foundation framework, for the First Flight ROV organization.
+This is a website, designed using Zurb's Foundation framework, for the First Flight ROV organization.
