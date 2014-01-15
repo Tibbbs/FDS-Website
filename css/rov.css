@@ -3,6 +3,11 @@ h1, h2, h3
 	text-align: center;
 }
 
+html, body, .container
+{
+	height: 100%;
+}
+
 .masthead
 {
 	background-image: url(../img/water-seamless.jpg?v=2);
@@ -46,13 +51,9 @@ h1, h2, h3
 	text-align: left;
 }
 
-.container
-{
-	height: 100%;
-}
-
 .footer
 {
+	clear: both;
 	background-color: #333333;
 	text-align: left;
 	overflow: auto;
