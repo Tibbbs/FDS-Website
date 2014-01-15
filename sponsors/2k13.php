@@ -62,7 +62,7 @@
 			</div>
 		</div>
 		<div class="hide-for-small">
-			<div class="row">
+			<div class="row equal">
 				<div class="small-4 medium-4 large-4 columns sponsors">
 					<a href="http://www.carolinadesigns.com/" target="_blank">
 						<img src="logos/cdr.png" alt="CDR" />
@@ -83,7 +83,7 @@
 				</div>
 			</div>
 			<br />
-			<div class="row">
+			<div class="row equal">
 				<div class="small-4 medium-4 large-4 columns sponsors">
 					<a href="http://www.vbltech.com/" target="_blank">
 						<img src="logos/vbl.png" alt="CDR" />
@@ -104,7 +104,7 @@
 				</div>
 			</div>
 			<br />
-			<div class="row">
+			<div class="row equal">
 				<div class="small-4 medium-4 large-4 columns sponsors">
 					<a href="http://www.carquestofnagshead.com/" target="_blank">
 						<img src="logos/carquest.png" alt="CDR" />
@@ -125,7 +125,7 @@
 				</div>
 			</div>
 			<br />
-			<div class="row">
+			<div class="row equal">
 				<div class="small-4 medium-4 large-4 columns sponsors">
 					<a href="http://www.ermidgettagency.com/" target="_blank">
 						<img src="logos/midgett.jpg" alt="CDR" />
@@ -169,6 +169,7 @@
 		<div class="row">
 			<div class="small-6 medium-6 large-6 columns">
 				<ul class="no-bullet sponsors">
+					<br />
 					<li>Kitty Hawk Car Wash</li>
 					<li>FFHS PTSO</li>
 					<li>Jo-El Quinlan</li>
@@ -187,6 +188,7 @@
 			</div>
 			<div class="small-6 medium-6 large-6 columns">
 				<ul class="no-bullet sponsors">
+					<br />
 					<li>Lawn and Order</li>
 					<li>Joe Lamb</li>
 					<li>Danny Miller</li>
@@ -210,6 +212,7 @@
 		</div>
 
 		<script src="../js/jquery.js"></script>
+		<script src="../js/jquery.equalheights.js"></script>
 		<script src="../js/foundation.min.js"></script>
 		<script src="../js/foundation/foundation.topbar.js"></script>
 
@@ -220,6 +223,11 @@
 					resume_on_mouseout: false,
 					timer_speed: 5000
 				}
+			});
+
+			$(document).ready(function()
+			{
+				$(".equal").equalHeights();
 			});
 		</script>
 	</body>

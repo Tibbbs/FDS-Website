@@ -41,8 +41,8 @@
 						<li class="has-dropdown active">
 							<a href="#">Sponsors</a>
 							<ul class="dropdown">
-								<li class="active"><a href="#">2013 Sponsors</a></li>
-								<li><a href="2k11.php">2011 Sponsors</a></li>
+								<li><a href="2k13.php">2013 Sponsors</a></li>
+								<li class="active"><a href="#">2011 Sponsors</a></li>
 								<li><a href="2k10.php">2010 Sponsors</a></li>
 							</ul>
 						</li>
@@ -56,7 +56,7 @@
 			<div class="row">
 				<div class="small-12 medium-12 large-12 columns">
 					<hr />
-					<h2>2013 Sponsors</h2>
+					<h2>2011 Sponsors</h2>
 					<hr />
 					<p>Our program would not be possible without the generous donations we receive from our sponsors. Below is a list of our 2013 sponsors.</p>
 					<br />
@@ -135,6 +135,7 @@
 		</div>
 
 		<script src="../js/jquery.js"></script>
+		<script src="../js/jquery.equalheights.js"></script>
 		<script src="../js/foundation.min.js"></script>
 		<script src="../js/foundation/foundation.topbar.js"></script>
 
