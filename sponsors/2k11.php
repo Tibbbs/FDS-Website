@@ -119,13 +119,13 @@
 						<h2>Dare County Schools</h2>
 						<h2>Bold Print Design</h2>
 						<h2>Ace Hardware</h2>
-						<br />
+						<hr />
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="small-12 medium-12 large-12 columns">
-					<ul class="no-bullet sponsors">
+					<ul class="no-bullet sponsors sponsors-low">
 						<li>The Thomas Family</li>
 						<li>Zach Miller</li>
 						<li>Theresa Osbourne</li>

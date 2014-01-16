@@ -168,8 +168,7 @@
 		</div>
 		<div class="row">
 			<div class="small-6 medium-6 large-6 columns">
-				<ul class="no-bullet sponsors">
-					<br />
+				<ul class="no-bullet sponsors sponsors-low">
 					<li>Kitty Hawk Car Wash</li>
 					<li>FFHS PTSO</li>
 					<li>Jo-El Quinlan</li>

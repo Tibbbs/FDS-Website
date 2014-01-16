@@ -193,6 +193,16 @@ html, body, .container
 	text-align: center;
 }
 
+.sponsors-low
+{
+	margin-top: .5em;
+}
+
+.multi
+{
+	overflow: auto;
+}
+
 #mate-logo
 {
 	display: block;
@@ -205,4 +215,9 @@ html, body, .container
 #team-image
 {
 	margin-bottom: .5em;
+}
+
+#about-small-list
+{
+	margin-bottom: 1em;
 }
