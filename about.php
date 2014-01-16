@@ -67,7 +67,7 @@
 					<li>
 						<img src="img/datass.jpg" alt="slide1"/>
 						<div class="orbit-caption">
-							DATASS performing mission functions
+							FDS-2013 performing mission functions
 						</div>
 					</li>
 					<li>
@@ -77,7 +77,7 @@
 						</div>
 					</li>
 				</ul>
-				<p>In keeping with the spirit of the competition, First Flight ROV produces a new and unique ROV for each successive year of competition. Our last completed ROV, dubbed FDS-2013, was used to compete in the 2013 competition. Some of its features include:</p>
+				<p>In keeping with the spirit of the competition, First Flight ROV produces a new, unique ROV for each successive year of competition. Our last completed ROV, dubbed FDS-2013, was used to compete in the 2013 competition. Some of its features include:</p>
 				<ul>
 					<li>4 high-resolution low-light waterproof cameras</li>
 					<li>An in-house designed and manufactured general-purpose Manipulator</li>
@@ -88,40 +88,10 @@
 				<hr />
 				<h2>The Team</h2>
 				<hr />
-				<img src="img/otherteam.jpg" id="team-image" alt="the team" />
+				<img src="img/2013-intl.jpg" id="team-image" alt="the team" />
 			</div>
 		</div>
-		<div class="row">
-			<!-- <div class="show-for-small">
-				<div class="small-12 columns">
-					<h3>Our 2014 members are:</h3>
-					<ul>
-						<li>Matthew Thibodeau, Class of 2015</li>
-						<li>Matthew Gray, Class of 2015</li>
-						<li>Dakota Tholen, Class of 2015</li>
-						<li>Sam Weybright, Class of 2016</li>
-						<li>Ricky Carroll, Class of 2016</li>
-						<li>Luke Potter, Class of 2017</li>
-						<li>Kenzie Potter, Class of 2017</li>
-					</ul>
-				</div>
-			</div>
-			<div class="hide-for-small">
-				<div class="medium-5 large-4 columns">
-					<div class="panel">
-						<h4>Our 2014 members are:</h4>
-						<ul>
-							<li>Matthew Thibodeau, Class of 2015</li>
-							<li>Matthew Gray, Class of 2015</li>
-							<li>Dakota Tholen, Class of 2015</li>
-							<li>Sam Weybright, Class of 2016</li>
-							<li>Ricky Carroll, Class of 2016</li>
-							<li>Luke Potter, Class of 2017</li>
-							<li>Kenzie Potter, Class of 2017</li>
-						</ul>
-					</div>
-				</div>
-			</div> -->
+		<div class="row" id="about-team">
 			<div data-interchange="[partials/about-team-small.html, (small)], [partials/about-team-med.html, (medium)], [partials/about-team-large.html, (large)]">
 				<h1>IT'S FUCKED</h1>
 			</div>
