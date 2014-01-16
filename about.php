@@ -57,7 +57,7 @@
 				<hr />
 				<h2>The ROV</h2>
 				<hr />
-				<ul data-orbit>
+				<ul id="about-orbit" data-orbit>
 					<li>
 						<img src="img/glamor-shot.jpg" alt="slide1"/>
 						<div class="orbit-caption">
@@ -88,18 +88,24 @@
 				<hr />
 				<h2>The Team</h2>
 				<hr />
-				<img src="img/otherteam.jpg" alt="the team" />
-				<p>Our 2014 members are:</p>
-				<ul>
-					<li>Matthew Thibodeau, Class of 2015</li>
-					<li>Matthew Gray, Class of 2015</li>
-					<li>Dakota Tholen, Class of 2015</li>
-					<li>Sam Weybright, Class of 2016</li>
-					<li>Ricky Carroll, Class of 2016</li>
-					<li>Luke Potter, Class of 2017</li>
-					<li>Kenzie Potter, Class of 2017</li>
-				</ul>
-				<p>I think I'll separate this into columns with a blurb for each returning member.</p>
+				<img src="img/otherteam.jpg" id="team-image" alt="the team" />
+			</div>
+		</div>
+		<div class="row">
+			<div class="show-for-small">
+				<div class="small-12 columns">
+					<h4>Our 2014 members are:</h4>
+					<ul>
+						<li>Matthew Thibodeau, Class of 2015</li>
+						<li>Matthew Gray, Class of 2015</li>
+						<li>Dakota Tholen, Class of 2015</li>
+						<li>Sam Weybright, Class of 2016</li>
+						<li>Ricky Carroll, Class of 2016</li>
+						<li>Luke Potter, Class of 2017</li>
+						<li>Kenzie Potter, Class of 2017</li>
+					</ul>
+					<p>I think I'll separate this into columns with a blurb for each returning member.</p>
+				</div>
 			</div>
 		</div>
 

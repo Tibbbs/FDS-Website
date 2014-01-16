@@ -35,11 +35,16 @@ html, body, .container
 	text-align: center;
 }
 
+.equal div
+{
+	height: 100%;
+}
+
 .main-header
 {
 	font-size: 4em;
 	font-family: Helvetica;
-	color: #333333;
+	color: #fafafa;
 	text-align: left;
 }
 
@@ -47,7 +52,7 @@ html, body, .container
 {
 	font-size: 3em;
 	font-family: Helvetica;
-	color: #333333;
+	color: #fafafa;
 	text-align: left;
 }
 
@@ -59,6 +64,16 @@ html, body, .container
 	overflow: auto;
 	z-index: 10;
 }
+
+/*.sponsor-wrap
+{
+	display: table-cell;
+}
+
+.sponsor-wrap a
+{
+	vertical-align: middle;
+}*/
 
 .footer h4
 {
@@ -125,6 +140,11 @@ html, body, .container
 		margin-top: -3em;
 	}
 
+	.about-orbit
+	{
+		margin-bottom: .5em;
+	}
+
 	.therefore
 	{
 		height: 2em;
@@ -180,4 +200,9 @@ html, body, .container
 	margin-left: auto;
 	max-height: 30em;
 	width: auto;
+}
+
+#team-image
+{
+	margin-bottom: .5em;
 }

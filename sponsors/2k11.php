@@ -58,31 +58,37 @@
 					<hr />
 					<h2>2011 Sponsors</h2>
 					<hr />
-					<p>Our program would not be possible without the generous donations we receive from our sponsors. Below is a list of our 2013 sponsors.</p>
+					<p>Our program would not be possible without the generous donations we receive from our sponsors. Below is a list of our 2011 sponsors.</p>
 					<br />
 				</div>
 			</div>
 			<div class="hide-for-small">
-				<div class="row">
+				<div class="row equal">
 					<div class="small-4 medium-4 large-4 columns sponsors">
-						<img src="logos/ecb.gif" alt="CDR" />
-						<h3><small>East Carolina Bank</small></h3>
+						<div class="sponsor-wrap">
+							<img src="logos/ecb.gif" alt="CDR" />
+							<h3><small>East Carolina Bank</small></h3>
+						</div>
 					</div>
 					<div class="small-4 medium-4 large-4 columns sponsors">
-						<a href="http://www.obxchevy.com/" target="_blank">
-							<img src="logos/chevy.jpg" alt="CDR" />
-							<h3><small>OBX Chevrolet Buick</small></h3>
-						</a>
+						<div class="sponsor-wrap">
+							<a href="http://www.obxchevy.com/" target="_blank">
+								<img src="logos/chevy.jpg" alt="CDR" />
+								<h3><small>OBX Chevrolet Buick</small></h3>
+							</a>
+						</div>
 					</div>
 					<div class="small-4 medium-4 large-4 columns sponsors">
-						<a href="http://www.surfrider.org/" target="_blank">
-							<img src="logos/surf.jpg" alt="CDR" />
-							<h3><small>Surfrider Foundation</small></h3>
-						</a>
+						<div class="sponsor-wrap">
+							<a href="http://www.surfrider.org/" target="_blank">
+								<img src="logos/surf.jpg" alt="CDR" />
+								<h3><small>Surfrider Foundation</small></h3>
+							</a>
+						</div>
 					</div>
 				</div>
 				<br />
-				<div class="row">
+				<div class="row equal">
 					<div class="small-4 medium-4 large-4 columns sponsors">
 						<a href="http://www.dare.k12.nc.us/" target="_blank">
 							<img src="logos/dcs.jpg" alt="CDR" />
@@ -146,6 +152,11 @@
 					resume_on_mouseout: false,
 					timer_speed: 5000
 				}
+			});
+
+			$(document).ready(function()
+			{
+				$(".equal").equalHeights();
 			});
 		</script>
 	</body>
