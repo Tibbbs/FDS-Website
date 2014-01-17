@@ -61,6 +61,27 @@
 		<br />
 		<div class="row">
 			<div class="large-12 medium-12 small-12 columns">
+				<h2 class="home-content-header">Advanced Competition-Ready ROVs</h2>
+				<div class="row">
+					<div class="large-8 medium-8 small-12 columns">
+						<h4 class="home-content-header">First Flight ROV creates remotely operated vehicles, or ROVs, for use in the MATE center's annual comptition.</h4>
+						<a class="button block" href="about.php#the-rov">Learn more about our ROV</a>
+						<a class="button block" href="about.php#the-team">Our 2014 season team</a>
+					</div>
+					<div class="large-4 medium-4 columns">
+						<div class="hide-for-small">
+							<div class="panel callout">
+								<h3>About Us</h3>
+								<ul>
+									<li>Annual participation in the <a href="mate.php">MATE competition</a></li>
+									<li>Undefeated Mid-Atlantic Regional Champions</li>
+									<li>2010 International Champions</li>
+									<li>7 member high-school team</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
 				<hr />
 				<h2>What's An ROV?</h2>
 				<hr />
@@ -77,22 +98,7 @@
 						<p>In the case of ROV technology the answer is quite simple. There is no other practical, safe and economically feasible way to perform deep underwater intervention. ROVs are one of the best tools available to researchers as they can withstand pressure at extreme depths while minimizing the risk to human life and at the cost of valuable resources. ROVs may well be the best tool available to repair non-functioning equipment.</p>
 					</div>
 				</div>
-				<hr />
-				<h2>Our Philosophy</h2>
-				<hr />
-				<div class="row">
-					<div class="large-8 medium-8 small-12 columns">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod nisi sem, in iaculis metus rutrum id. Maecenas tempor dictum nulla non eleifend. Pellentesque sagittis vehicula purus nec congue. Duis pretium placerat feugiat. Suspendisse at iaculis ligula, sagittis fringilla velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam massa purus, adipiscing et felis vitae, tempor dictum nisl. Nam placerat tellus nec hendrerit posuere. Pellentesque id augue et nulla congue aliquam nec ac purus. Suspendisse potenti. In vitae hendrerit justo.</p>
-						<h4>Why do they exist?</h4>
-						<p>Etiam ut tempor massa, sit amet iaculis neque. Integer quis elementum arcu. Duis gravida neque id elit consequat egestas. Aenean malesuada, purus at tincidunt fermentum, massa lacus iaculis lacus, nec ultrices nunc felis id libero. Vivamus nec iaculis orci. Sed et ante ipsum. Nam tortor quam, laoreet id pharetra eu, malesuada ac ipsum. Donec sed elit magna. Praesent sodales felis libero, in bibendum erat tempus eget.</p>
-					</div>
-					<div class="large-4 medium-4 columns">
-						<div class="hide-for-small">
-							<img src="img/team.jpg" alt="The FFROV team"/>
-							<h4><small>The FFROV team.</small></h4>
-						</div>
-					</div>
-				</div>
+				
 			</div>
 		</div>
 		<div class="footer">

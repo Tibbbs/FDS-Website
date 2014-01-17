@@ -55,7 +55,7 @@
 		<div class="row">
 			<div class="small-12 medium-12 large-12 columns">
 				<hr />
-				<h2>The ROV</h2>
+				<h2 id="the-rov">The ROV</h2>
 				<hr />
 				<ul id="about-orbit" data-orbit>
 					<li>
@@ -77,23 +77,30 @@
 						</div>
 					</li>
 				</ul>
-				<p>In keeping with the spirit of the competition, First Flight ROV produces a new, unique ROV for each successive year of competition. Our last completed ROV, dubbed FDS-2013, was used to compete in the 2013 competition. Some of its features include:</p>
+				<p>In keeping with the spirit of the MATE competition, First Flight ROV produces a new, unique ROV for each successive year of competition. Our last completed ROV, dubbed FDS-2013, was used to compete in the 2013 competition. Some of its features include:</p>
 				<ul>
 					<li>4 high-resolution low-light waterproof cameras</li>
 					<li>An in-house designed and manufactured general-purpose Manipulator</li>
 					<li>Mission-specific payload tools</li>
 					<li>Woven monofilament propeller shrouds</li>
 				</ul>
-				<a href="therov.php" class="button">To read more about our ROV, click here</a>
+				<!-- <a href="#" data-reveal-id="gallery" class="button">ROV Photo Gallery</a>
+				<div class="reveal-modal" id="gallery" data-reveal>
+					<h2>ROV Photos</h2>
+					<h3 class="subheader">Click outside to close.</h3>
+					<ul class="clearing-thumbs" data-clearing>
+						<li></li>
+					</ul>
+				</div> -->
+				<h3>Gallery</h3>
 				<hr />
-				<h2>The Team</h2>
+				<h2 id="the-team">The Team</h2>
 				<hr />
 				<img src="img/2013-intl.jpg" id="team-image" alt="the team" />
 			</div>
 		</div>
 		<div class="row" id="about-team">
 			<div data-interchange="[partials/about-team-small.html, (small)], [partials/about-team-med.html, (medium)], [partials/about-team-large.html, (large)]">
-				<h1>IT'S FUCKED</h1>
 			</div>
 		</div>
 
@@ -105,6 +112,8 @@
 		<script src="js/jquery.js"></script>
 		<script src="js/foundation.min.js"></script>
 		<script src="js/foundation/foundation.interchange.js"></script>
+		<script src="js/foundation/foundation.reveal.js"></script>
+		<script src="js/foundation/foundation.clearing.js"></script>
 		<script src="js/foundation/foundation.topbar.js"></script>
 
 		<script>
@@ -114,6 +123,16 @@
 					resume_on_mouseout: false,
 					timer_speed: 5000
 				}
+			});
+
+			$(document).ready(function() {
+				if(location.hash)
+				{
+					$('html, body').animate({
+				        scrollTop: $(location.hash).offset().top
+				    }, 2000);
+				}
+
 			});
 		</script>
 	</body>

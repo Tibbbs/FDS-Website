@@ -8,6 +8,11 @@ html, body, .container
 	height: 100%;
 }
 
+.block
+{
+	display: block;
+}
+
 .masthead
 {
 	background-image: url(../img/water-seamless.jpg?v=2);
@@ -201,6 +206,11 @@ html, body, .container
 .multi
 {
 	overflow: auto;
+}
+
+.home-content-header
+{
+	margin-bottom: 1em;
 }
 
 #mate-logo
