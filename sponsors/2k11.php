@@ -141,7 +141,7 @@
 		</div>
 
 		<script src="../js/jquery.js"></script>
-		<script src="../js/jquery.equalheights.js"></script>
+		<!--<script src="../js/jquery.equalheights.js"></script>-->
 		<script src="../js/foundation.min.js"></script>
 		<script src="../js/foundation/foundation.topbar.js"></script>
 
