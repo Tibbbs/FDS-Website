@@ -65,26 +65,20 @@
 			<div class="hide-for-small">
 				<div class="row equal">
 					<div class="small-4 medium-4 large-4 columns sponsors">
-						<div class="sponsor-wrap">
-							<img src="logos/ecb.gif" alt="CDR" />
-							<h3><small>East Carolina Bank</small></h3>
-						</div>
+						<img src="logos/ecb.gif" alt="CDR" />
+						<h3><small>East Carolina Bank</small></h3>
 					</div>
 					<div class="small-4 medium-4 large-4 columns sponsors">
-						<div class="sponsor-wrap">
-							<a href="http://www.obxchevy.com/" target="_blank">
-								<img src="logos/chevy.jpg" alt="CDR" />
-								<h3><small>OBX Chevrolet Buick</small></h3>
-							</a>
-						</div>
+						<a href="http://www.obxchevy.com/" target="_blank">
+							<img src="logos/chevy.jpg" alt="CDR" />
+							<h3><small>OBX Chevrolet Buick</small></h3>
+						</a>
 					</div>
 					<div class="small-4 medium-4 large-4 columns sponsors">
-						<div class="sponsor-wrap">
-							<a href="http://www.surfrider.org/" target="_blank">
-								<img src="logos/surf.jpg" alt="CDR" />
-								<h3><small>Surfrider Foundation</small></h3>
-							</a>
-						</div>
+						<a href="http://www.surfrider.org/" target="_blank">
+							<img src="logos/surf.jpg" alt="CDR" />
+							<h3><small>Surfrider Foundation</small></h3>
+						</a>
 					</div>
 				</div>
 				<br />

@@ -64,9 +64,34 @@
 		<div class="hide-for-small">
 			<div class="row equal">
 				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.carolinadesigns.com/" target="_blank">
-						<img src="logos/cdr.png" alt="CDR" />
-						<h3><small>Carolina Designs Realty</small></h3>
+					<a href="http://www.surfrider.org/" target="_blank">
+						<img src="logos/surf.jpg" alt="CDR" />
+						<h3><small>Surfrider Foundation</small></h3>
+					</a>
+				</div>
+				<div class="small-4 medium-4 large-4 columns sponsors">
+					<img src="logos/ecb.gif" alt="CDR" />
+					<h3><small>East Carolina Bank</small></h3>
+				</div>
+				<div class="small-4 medium-4 large-4 columns sponsors">
+					<a href="http://www.dare.k12.nc.us/" target="_blank">
+						<img src="logos/dcs.jpg" alt="CDR" />
+						<h3><small>Dare County Schools</small></h3>
+					</a>
+				</div>
+			</div>
+			<br />
+			<div class="row equal">
+				<div class="small-4 medium-4 large-4 columns sponsors">
+					<a href="http://www.obxchevy.com/" target="_blank">
+						<img src="logos/chevy.jpg" alt="CDR" />
+						<h3><small>OBX Chevrolet Buick</small></h3>
+					</a>
+				</div>
+				<div class="small-4 medium-4 large-4 columns sponsors">
+					<a href="http://www.acehardware.com/" target="_blank">
+						<img src="logos/ace.png" alt="CDR" />
+						<h3><small>Ace Hardware</small></h3>
 					</a>
 				</div>
 				<div class="small-4 medium-4 large-4 columns sponsors">
@@ -75,73 +100,38 @@
 						<h3><small>SubConn</small></h3>
 					</a>
 				</div>
-				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.marinetech.org" target="_blank">
-						<img src="logos/mate.png" alt="CDR" />
-						<h3><small>MATE Center</small></h3>
-					</a>
-				</div>
 			</div>
 			<br />
 			<div class="row equal">
 				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.vbltech.com/" target="_blank">
-						<img src="logos/vbl.png" alt="CDR" />
-						<h3><small>VBL Technologies</small></h3>
+					<a href="http://www.resortrealty.com/" target="_blank">
+						<img src="logos/resort.jpg" alt="CDR" />
+						<h3><small>Resort Realty</small></h3>
 					</a>
 				</div>
 				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.obxbuilder.com/" target="_blank">
-						<img src="logos/carl.gif" alt="CDR" />
-						<h3><small>Carl Worseley &amp; Associates</small></h3>
+					<a href="http://www.villagerealtyobx.com/" target="_blank">
+						<img src="logos/village.jpg" alt="CDR" />
+						<h3><small>Village Realty</small></h3>
 					</a>
 				</div>
 				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.flexpvc.com/" target="_blank">
-						<img src="logos/flex.jpg" alt="CDR" />
-						<h3><small>FlexPVC</small></h3>
-					</a>
+					<img src="logos/dowd.gif" alt="CDR" />
+					<h3><small>Teresa Osborne</small></h3>
 				</div>
 			</div>
 			<br />
 			<div class="row equal">
-				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.carquestofnagshead.com/" target="_blank">
-						<img src="logos/carquest.png" alt="CDR" />
-						<h3><small>Carquest of Nags Head</small></h3>
+				<div class="medium-6 large-6 columns sponsors">
+					<a href="http://www.outerbanksvacations.com/kittydunes-seaside.htm" target="_blank">
+						<img src="logos/kitty.png" alt="CDR" />
+						<h3><small>Kitty Dunes Realty</small></h3>
 					</a>
 				</div>
-				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://csi.northcarolina.edu/" target="_blank">
-						<img src="logos/csi.jpg" alt="CDR" />
-						<h3><small>NC Coastal Studies Institute</small></h3>
-					</a>
-				</div>
-				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.grays-sportswear.com/" target="_blank">
-						<img src="logos/grays.jpg" alt="CDR" />
-						<h3><small>Gray's Department Store</small></h3>
-					</a>
-				</div>
-			</div>
-			<br />
-			<div class="row equal">
-				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.ermidgettagency.com/" target="_blank">
-						<img src="logos/midgett.jpg" alt="CDR" />
-						<h3><small>Midgett Insurance</small></h3>
-					</a>
-				</div>
-				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.dare.k12.nc.us/" target="_blank">
-						<img src="logos/dcs.jpg" alt="CDR" />
-						<h3><small>Dare County Schools</small></h3>
-					</a>
-				</div>
-				<div class="small-4 medium-4 large-4 columns sponsors">
-					<a href="http://www.dardenfoundation.com/cms/index.php" target="_blank">
-						<img src="logos/darden.jpg" alt="CDR" />
-						<h3><small>Darden Foundation</small></h3>
+				<div class="medium-6 large-6 columns sponsors">
+					<a href="http://www.carolinadesigns.com/" target="_blank">
+						<img src="logos/cdr.png" alt="CDR" />
+						<h3><small>Carolina Designs Realty</small></h3>
 					</a>
 				</div>
 			<hr />
@@ -150,18 +140,16 @@
 		<div class="show-for-small">
 			<div class="row">
 				<div class="small-12">
-					<h2>Carolina Designs Realty</h2>
-					<h2>SubConn</h2>
-					<h2>MATE Center</h2>
-					<h2>VBL Technologies</h2>
-					<h2>Carl Worseley &amp; Associates</h2>
-					<h2>FlexPVC</h2>
-					<h2>Carquest of Nags Head</h2>
-					<h2>NC Coastal Studies Institute</h2>
-					<h2>Gray's Department Store</h2>
-					<h2>Midgett Insurance</h2>
+					<h2>Surfrider Foundation</h2>
 					<h2>Dare County Schools</h2>
-					<h2>Darden Foundation</h2>
+					<h2>Resort Realty</h2>
+					<h2>East Carolina Bank</h2>
+					<h2>OBX Chevrolet</h2>
+					<h2>Village Realty</h2>
+					<h2>Teresa Osborne</h2>
+					<h2>Ace Hardware</h2>
+					<h2>Kitty Dunes Rentals</h2>
+					<h2>SubConn</h2>
 					<hr />
 				</div>
 			</div>
@@ -169,37 +157,40 @@
 		<div class="row">
 			<div class="small-6 medium-6 large-6 columns">
 				<ul class="no-bullet sponsors sponsors-low">
-					<li>Kitty Hawk Car Wash</li>
-					<li>FFHS PTSO</li>
-					<li>Jo-El Quinlan</li>
-					<li>Monica Thibodeau</li>
-					<li>Larry Gray</li>
-					<li>Kelly Management Group</li>
-					<li>SeaScape</li>
-					<li>Georgia Finch</li>
-					<li>James Pickren</li>
-					<li>Guy C. Lee</li>
-					<li>Coastal Cottage Watch</li>
-					<li>Sea Swept Design</li>
+					<li>George W. Brady</li>
+					<li>Kelly's Hospitality Group</li>
+					<li>BB&amp;T</li>
 					<li>Southern Bank</li>
-					<li>Julie Gray</li>
+					<li>Quible and Associates Engineering</li>
+					<li>Sam and Omies</li>
+					<li>OBX Bank</li>
+					<li>Owen's Restaurant</li>
+					<li>Poor Richards Sandwich Shop</li>
+					<li>The Crytzer Family</li>
+					<li>The Pickrel Family</li>
+					<li>Larry Gray</li>
+					<li>Georgia Finch</li>
+					<li>Jennifer Gilbreath</li>
+					<li>Douglass Mercer</li>
 				</ul>
 			</div>
 			<div class="small-6 medium-6 large-6 columns">
 				<ul class="no-bullet sponsors">
-					<li>Lawn and Order</li>
-					<li>Joe Lamb</li>
-					<li>Danny Miller</li>
-					<li>Anne Hunter</li>
-					<li>Roy Archbell</li>
-					<li>Richard Baer</li>
-					<li>Kellogg Supply Company</li>
-					<li>Beach Realty</li>
-					<li>Bonzer Shack</li>
-					<li>Susan Gray</li>
-					<li>A&amp;B Carpet One</li>
-					<li>Janine Harrington</li>
-					<li>Marie Gabrielle</li>
+					<li>Diamonds N' Dunes</li>
+					<li>Drew Wricht</li>
+					<li>Julie Gray</li>
+					<li>Carol Leslie Smith</li>
+					<li>The Home Depot</li>
+					<li>Amanda Lotus</li>
+					<li>Nancy Spruill</li>
+					<li>Sun Realty</li>
+					<li>Sharon Sullivan</li>
+					<li>Darrel Echols</li>
+					<li>MArk and Carol Russel</li>
+					<li>Sara Hamb</li>
+					<li>Ann Wunderly</li>
+					<li>Kathleen Argiroff</li>
+					<li>Dr. Downing, General Dentistry</li>
 				</ul>
 			</div>
 		</div>
