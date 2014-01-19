@@ -47,7 +47,10 @@
 							</ul>
 						</li>
 						<li><a href="../mate.php">The Competition</a></li>
-						<li><a href="#">Donate</a></li>
+						<li class="divider"></li>
+						<li class="has-form">
+							<a href="#" class="button">Donate</a>
+						</li>
 					</ul>
 				</section>
 			</nav>

@@ -1,16 +1,16 @@
 <?php
-  set_include_path(dirname(__FILE__)."/../");
-  require_once("login/classes/authentication.php");
-  $membership = new authentication();
-  $membership->confirmMember();
-  if (isset($_COOKIE['user']))
-  {
-    $user = $_COOKIE['user'];
-  }
-  else
-  {
-    header("location: /../login/");
-  }
+	set_include_path(dirname(__FILE__)."/../");
+	require_once("login/classes/authentication.php");
+	$membership = new authentication();
+	$membership->confirmMember();
+	if (isset($_COOKIE['user']))
+	{
+	$user = $_COOKIE['user'];
+	}
+	else
+	{
+	header("location: /../login/");
+	}
 
 ?>
 
@@ -46,7 +46,10 @@
 						</ul>
 					</li>
 					<li><a href="mate.php">The Competition</a></li>
-					<li><a href="#">Donate</a></li>
+					<li class="divider"></li>
+					<li class="has-form">
+						<a href="#" class="button">Donate</a>
+					</li>
 				</ul>
 			</section>
 		</nav>
