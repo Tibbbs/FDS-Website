@@ -5,11 +5,11 @@
 	$membership->confirmMember();
 	if (isset($_COOKIE['user']))
 	{
-	$user = $_COOKIE['user'];
+		$user = $_COOKIE['user'];
 	}
 	else
 	{
-	header("location: /../login/");
+		header("location: /../login/");
 	}
 
 ?>
