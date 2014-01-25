@@ -95,6 +95,14 @@
 					</ul>
 				</div> -->
 				<h3>Gallery</h3>
+				<ul class="clearing-thumbs" data-clearing style>
+					<li><a class="th" href="img/rov-4.jpg"><img src="img/th/tn_rov-4.jpg" /></a></li>
+					<li><a class="th" href="img/rov-5.jpg"><img src="img/th/tn_rov-5.jpg" /></a></li>
+					<li><a class="th" href="img/rov-6.jpg"><img src="img/th/tn_rov-6.jpg" /></a></li>
+					<li><a class="th" href="img/rov-7.jpg"><img src="img/th/tn_rov-7.jpg" /></a></li>
+					<li><a class="th" href="img/rov-8.jpg"><img src="img/th/tn_rov-8.jpg" /></a></li>
+					<li><a class="th" href="img/rov-9.jpg"><img src="img/th/tn_rov-9.jpg" /></a></li>
+				</ul>
 				<hr />
 				<h2 id="the-team">The Team</h2>
 				<hr />
