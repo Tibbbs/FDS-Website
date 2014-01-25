@@ -48,7 +48,7 @@
 					<li class="active"><a href="#">The Competition</a></li>
 					<li class="divider"></li>
 					<li class="has-form">
-						<a href="#" class="button">Donate</a>
+						<a href="donate.php" class="button">Donate</a>
 					</li>
 				</ul>
 			</section>
@@ -96,7 +96,7 @@
 					</div>
 					<div class="large-4 medium-4 columns">
 						<div class="hide-for-small">
-							<img src="img/team.jpg" alt="The FFROV team"/>
+							<img src="img/2013-mission.jpg" alt="The FFROV team"/>
 							<h4><small>The FFROV team.</small></h4>
 						</div>
 					</div>

@@ -77,8 +77,55 @@
 					<h2>Become a Sponsor</h2>
 					<hr />
 					<div class="panel">
-						<h3>First Flight ROV must raise more than $10,000 each year. In exchange for </h3>
-					</div>	
+						<h3>First Flight ROV must raise more than $10,000 each year</h3>
+						<h3>Personal and Corporate donations are accepted</h3>
+						<ul id="donate-panel-ul">
+							<li><h4>All donations are tax-exempt</h4></li>
+							<li><h4>Sponsorship has several benefits, including advertising value</h4></li>
+						</ul>
+					</div>
+					<hr />
+					<h3>Donate</h3>
+					<hr />
+				</div>
+			</div>
+			<div class="row">
+				<div class="medium-6 large-6 columns donate-cc">
+					<div class="hide-for-small">
+						<h4>Check or Cash Donations</h4>
+						<h4><small>Please send to the following address:</small></h4>
+						<ul class="vcard">
+							<li class="fn">First Flight High School</li>
+							<li class="fn">Attn: Andrew Thomas</li>
+							<li class="street-address">100 Veterans Drive</li>
+							<li class="locality">Kill Devil Hills</li>
+							<li><span class="state">NC</span>, <span class="zip">27948</span></li>
+						</ul>
+						<h4><small>Checks can be made out to <strong>Andrew Thomas</strong></small></h4>
+					</div>
+				</div>
+				<div class="medium-6 large-6 columns donate-cc">
+					<div class="hide-for-small">
+						<h4>Credit Card Donations</h4>
+						<h4><small>Coming Soon!</small></h4>
+					</div>
+				</div>
+				<div class="small-12 columns donate-cc">
+					<div class="show-for-small">
+						<h3>Check or Cash Donations</h3>
+						<h3><small>Please send to the following address:</small></h3>
+						<ul class="vcard">
+							<li class="fn">First Flight High School</li>
+							<li class="fn">Attn: Andrew Thomas</li>
+							<li class="street-address">100 Veterans Drive</li>
+							<li class="locality">Kill Devil Hills</li>
+							<li><span class="state">NC</span>, <span class="zip">27948</span></li>
+						</ul>
+						<h3><small>Checks can be made out to <strong>Andrew Thomas</strong></small></h3>
+						<hr />
+						<h3>Credit Card Donations</h3>
+						<h3><small>Coming Soon!</small></h3>
+					</div>
 				</div>
 			</div>
 		</div>

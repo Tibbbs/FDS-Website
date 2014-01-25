@@ -213,6 +213,16 @@ html, body, .container
 	margin-bottom: 1em;
 }
 
+.donate-cc
+{
+	text-align: center;
+}
+
+.vcard
+{
+	text-align: left;
+}
+
 #mate-logo
 {
 	display: block;
@@ -235,4 +245,14 @@ html, body, .container
 #about-team h3
 {
 	text-align: left;
+}
+
+#donate-panel-ul
+{
+	padding-top: 1em;
+}
+
+#team-pic-caption
+{
+	padding-bottom: .5em;
 }

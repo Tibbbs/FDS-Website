@@ -48,7 +48,7 @@
 					<li><a href="mate.php">The Competition</a></li>
 					<li class="divider"></li>
 					<li class="has-form">
-						<a href="#" class="button">Donate</a>
+						<a href="donate.php" class="button">Donate</a>
 					</li>
 				</ul>
 			</section>
@@ -95,7 +95,7 @@
 					</ul>
 				</div> -->
 				<h3>Gallery</h3>
-				<ul class="clearing-thumbs" data-clearing style>
+				<ul class="clearing-thumbs" data-clearing>
 					<li><a class="th" href="img/rov-4.jpg"><img src="img/th/tn_rov-4.jpg" /></a></li>
 					<li><a class="th" href="img/rov-5.jpg"><img src="img/th/tn_rov-5.jpg" /></a></li>
 					<li><a class="th" href="img/rov-6.jpg"><img src="img/th/tn_rov-6.jpg" /></a></li>
@@ -107,6 +107,7 @@
 				<h2 id="the-team">The Team</h2>
 				<hr />
 				<img src="img/2013-intl.jpg" id="team-image" alt="the team" />
+				<h3 id="team-pic-caption"><small>The 2013 team poses with the ROV in Seattle for the International competition. 2014 team info is below</small></h3>
 			</div>
 		</div>
 		<div class="row" id="about-team">
