@@ -96,7 +96,7 @@
 					</div>
 					<div class="large-4 medium-4 columns">
 						<div class="hide-for-small">
-							<img src="img/2013-mission.jpg" alt="The FFROV team"/>
+							<img src="img-small/2013-mission.jpg" alt="The FFROV team"/>
 							<h4><small>The FFROV team.</small></h4>
 						</div>
 					</div>

@@ -61,19 +61,19 @@
 				<hr />
 				<ul id="about-orbit" data-orbit>
 					<li>
-						<img src="img/glamor-shot.jpg" alt="slide1"/>
+						<img src="img-small/glamor-shot.jpg" alt="slide1"/>
 						<div class="orbit-caption">
 							The ROV in its natural habitat
 						</div>
 					</li>
 					<li>
-						<img src="img/datass.jpg" alt="slide1"/>
+						<img src="img-small/datass.jpg" alt="slide1"/>
 						<div class="orbit-caption">
 							FDS-2013 performing mission functions
 						</div>
 					</li>
 					<li>
-						<img src="img/moist.jpg" alt="slide1"/>
+						<img src="img-small/moist.jpg" alt="slide1"/>
 						<div class="orbit-caption">
 							The ROV undergoing maintenance
 						</div>
@@ -96,17 +96,17 @@
 				</div> -->
 				<h3>Gallery</h3>
 				<ul class="clearing-thumbs" data-clearing>
-					<li><a class="th" href="img/rov-4.jpg"><img src="img/th/tn_rov-4.jpg" /></a></li>
-					<li><a class="th" href="img/rov-5.jpg"><img src="img/th/tn_rov-5.jpg" /></a></li>
-					<li><a class="th" href="img/rov-6.jpg"><img src="img/th/tn_rov-6.jpg" /></a></li>
-					<li><a class="th" href="img/rov-7.jpg"><img src="img/th/tn_rov-7.jpg" /></a></li>
-					<li><a class="th" href="img/rov-8.jpg"><img src="img/th/tn_rov-8.jpg" /></a></li>
-					<li><a class="th" href="img/rov-9.jpg"><img src="img/th/tn_rov-9.jpg" /></a></li>
+					<li><a class="th" href="img-small/rov-4.jpg"><img src="img/th/tn_rov-4.jpg" /></a></li>
+					<li><a class="th" href="img-small/rov-5.jpg"><img src="img/th/tn_rov-5.jpg" /></a></li>
+					<li><a class="th" href="img-small/rov-6.jpg"><img src="img/th/tn_rov-6.jpg" /></a></li>
+					<li><a class="th" href="img-small/rov-7.jpg"><img src="img/th/tn_rov-7.jpg" /></a></li>
+					<li><a class="th" href="img-small/rov-8.jpg"><img src="img/th/tn_rov-8.jpg" /></a></li>
+					<li><a class="th" href="img-small/rov-9.jpg"><img src="img/th/tn_rov-9.jpg" /></a></li>
 				</ul>
 				<hr />
 				<h2 id="the-team">The Team</h2>
 				<hr />
-				<img src="img/2013-intl.jpg" id="team-image" alt="the team" />
+				<img src="img-small/2013-intl.jpg" id="team-image" alt="the team" />
 				<h3 id="team-pic-caption"><small>The 2013 team poses with the ROV in Seattle for the International competition. 2014 team info is below</small></h3>
 			</div>
 		</div>
