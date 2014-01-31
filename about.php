@@ -1,19 +1,3 @@
-<?php
-	set_include_path(dirname(__FILE__)."/../");
-	require_once("login/classes/authentication.php");
-	$membership = new authentication();
-	$membership->confirmMember();
-	if (isset($_COOKIE['user']))
-	{
-		$user = $_COOKIE['user'];
-	}
-	else
-	{
-		header("location: /../login/");
-	}
-
-?>
-
 <!doctype html>
 <html class="no-js" lang="en">
 	<head>
@@ -79,13 +63,22 @@
 						</div>
 					</li>
 				</ul>
-				<p>In keeping with the spirit of the MATE competition, First Flight ROV produces a new, unique ROV for each successive year of competition. Our last completed ROV, dubbed FDS-2013, was used to compete in the 2013 competition. Some of its features include:</p>
-				<ul>
-					<li>4 high-resolution low-light waterproof cameras</li>
-					<li>An in-house designed and manufactured general-purpose Manipulator</li>
-					<li>Mission-specific payload tools</li>
-					<li>Woven monofilament propeller shrouds</li>
-				</ul>
+				<div class="row">
+					<div class="large-7 medium-6 small-12 columns">
+						<p>In keeping with the spirit of the MATE competition, First Flight ROV produces a new, unique ROV for each successive year of competition. Our last completed ROV, dubbed FDS-2013, was used to compete in the 2013 competition. </p>
+					</div>
+					<div class="large-5 medium-6 small-12 columns">
+						<div class="panel">
+							<p>Some of its features include:</p>
+							<ul>
+								<li>4 high-resolution low-light waterproof cameras</li>
+								<li>An in-house designed and manufactured general-purpose Manipulator</li>
+								<li>Mission-specific payload tools</li>
+								<li>Woven monofilament propeller shrouds</li>
+							</ul>
+						</div>
+					</div>
+				</div>
 				<!-- <a href="#" data-reveal-id="gallery" class="button">ROV Photo Gallery</a>
 				<div class="reveal-modal" id="gallery" data-reveal>
 					<h2>ROV Photos</h2>
