@@ -6,6 +6,7 @@
 		<title>FFHS ROV</title>
 		<link rel="stylesheet" href="css/foundation.css" />
 		<link rel="stylesheet" href="css/rov.css?<?=time();?>" />
+		<link rel="shortcut icon" href="favicon.ico">
 		<script src="js/modernizr.js"></script>
 	</head>
 	<body>
@@ -24,9 +25,9 @@
 					<li class="has-dropdown">
 						<a href="#">Sponsors</a>
 						<ul class="dropdown">
-							<li><a href="/rov/sponsors/2k13.php">2013 Sponsors</a></li>
-							<li><a href="/rov/sponsors/2k11.php">2011 Sponsors</a></li>
-							<li><a href="/rov/sponsors/2k10.php">2010 Sponsors</a></li>
+							<li><a href="/sponsors/2k13.php">2013 Sponsors</a></li>
+							<li><a href="/sponsors/2k11.php">2011 Sponsors</a></li>
+							<li><a href="/sponsors/2k10.php">2010 Sponsors</a></li>
 						</ul>
 					</li>
 					<li><a href="mate.php">The Competition</a></li>

@@ -1,19 +1,3 @@
-<?php
-	set_include_path(dirname(__FILE__)."/../");
-	require_once("login/classes/authentication.php");
-	$membership = new authentication();
-	$membership->confirmMember();
-	if (isset($_COOKIE['user']))
-	{
-		$user = $_COOKIE['user'];
-	}
-	else
-	{
-		header("location: /../login/");
-	}
-
-?>
-
 <!doctype html>
 <html class="no-js" lang="en">
 	<head>
@@ -22,6 +6,7 @@
 		<title>FFHS ROV</title>
 		<link rel="stylesheet" href="css/foundation.css" />
 		<link rel="stylesheet" href="css/rov.css?<?=time();?>" />
+		<link rel="shortcut icon" href="favicon.ico">
 		<script src="js/modernizr.js"></script>
 	</head>
 	<body>
