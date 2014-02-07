@@ -61,7 +61,7 @@
 				<h2 class="home-content-header">Advanced Competition-Ready ROVs</h2>
 				<div class="row">
 					<div class="large-8 medium-8 small-12 columns">
-						<h4 class="home-content-header">First Flight ROV creates remotely operated vehicles, or ROVs, for use in the MATE center's annual comptition.</h4>
+						<h4 class="home-content-header">First Flight ROV creates remotely operated vehicles, or ROVs, for use in the MATE center's annual competition.</h4>
 						<a class="button block" href="about.php#the-rov">Learn more about our ROV</a>
 						<a class="button block" href="about.php#the-team">Our 2014 season team</a>
 					</div>
