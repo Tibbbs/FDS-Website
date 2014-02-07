@@ -120,7 +120,7 @@
 
 		<div class="footer">
 			<img class="therefore" src="img/therefore.svg" alt="therefore" />
-			<h4><small>&copy;2014 Matthew Thibodeau</small></h4>
+			<h4 class="copyright"><small>&copy;2014 Matthew Thibodeau</small></h4>
 		</div>
 
 		<script src="js/jquery.js"></script>

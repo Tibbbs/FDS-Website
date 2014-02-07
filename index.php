@@ -34,9 +34,9 @@
 					<li class="has-dropdown">
 						<a href="#">Sponsors</a>
 						<ul class="dropdown">
-							<li><a href="/rov/sponsors/2k13.php">2013 Sponsors</a></li>
-							<li><a href="/rov/sponsors/2k11.php">2011 Sponsors</a></li>
-							<li><a href="/rov/sponsors/2k10.php">2010 Sponsors</a></li>
+							<li><a href="/sponsors/2k13.php">2013 Sponsors</a></li>
+							<li><a href="/sponsors/2k11.php">2011 Sponsors</a></li>
+							<li><a href="/sponsors/2k10.php">2010 Sponsors</a></li>
 						</ul>
 					</li>
 					<li><a href="mate.php">The Competition</a></li>
@@ -100,7 +100,7 @@
 		</div>
 		<div class="footer">
 			<img class="therefore" src="img/therefore.svg" alt="therefore" />
-			<h4><small>&copy;2014 Matthew Thibodeau</small></h4>
+			<h4 class="copyright"><small>&copy;2014 Matthew Thibodeau</small></h4>
 		</div>
 
 		<script src="js/jquery.js"></script>

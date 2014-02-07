@@ -38,8 +38,12 @@ html, body, .container
 
 .top-bar
 {
+	margin-bottom: -1px;
+}
 
-	margin-bottom: -.2em;
+.top-bar-section .dropdown
+{
+	margin-top: -1px;
 }
 
 .caption 
@@ -228,6 +232,11 @@ html, body, .container
 .vcard
 {
 	text-align: left;
+}
+
+.copyright
+{
+	padding-right: .5em;
 }
 
 #mate-logo
