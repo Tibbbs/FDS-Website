@@ -33,6 +33,13 @@ html, body, .container
 {
 	background-color: #008cba;
 	height: 1em;
+	position: relative;
+}
+
+.top-bar
+{
+
+	margin-bottom: -.2em;
 }
 
 .caption 
